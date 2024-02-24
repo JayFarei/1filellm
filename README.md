@@ -1,3 +1,11 @@
+Fast run
+```shell
+source ./init.sh
+```
+Includes secrets & certificates in the virtual environment
+---
+
+
 
 # Command Line Data Aggregator for LLM Ingestion
 

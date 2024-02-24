@@ -7,3 +7,4 @@ tiktoken
 pyperclip
 bs4
 youtube_transcript_api
+certifi
